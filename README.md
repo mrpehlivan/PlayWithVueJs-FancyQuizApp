@@ -1,4 +1,6 @@
-# quiz
+# Fancy Quiz App
+
+A basic project to play with Vue js
 
 ## Project setup
 ```
